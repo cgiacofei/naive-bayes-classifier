@@ -7,7 +7,7 @@ yet another general purpose Naive Bayesian classifier.
 You can install this package using the following ```pip``` command:
 
 ```sh
-$ sudo pip install naiveBayesClassifier
+$ sudo pip install git+git://github.com/cgiacofei/naive-bayes-classifier.git@master
 ```
 
 
