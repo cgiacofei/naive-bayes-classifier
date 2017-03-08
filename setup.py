@@ -7,14 +7,14 @@ except ImportError:
 
 
 setup(name='naiveBayesClassifier',
-      version='0.1.3.1',
+      version='0.1.3.2',
       license='MIT',
       description='yet another general purpose naive bayesian classifier',
       long_description=open('README.md').read(),
-      url='https://github.com/muatik/naive-bayes-classifier',
+      url='https://github.com/cgiacofei/naive-bayes-classifier',
       author='Mustafa Atik',
       author_email='muatik@gmail.com',
-      maintainer='Nejdet Yucesoy',
-      maintainer_email='nejdetyucesoy@gmail.com',
+      maintainer='Chris Giacofei',
+      maintainer_email='c.giacofei@gmail.com',
       packages=['naiveBayesClassifier'],
       platforms='any')
